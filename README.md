@@ -1,4 +1,4 @@
-# resources
+# Re:State Resources
 
 Welcome to the Re:State resources!
 A place to share your favorite brain research software and other online resources with your fellow Re:Staters.
